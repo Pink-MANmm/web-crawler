@@ -1,0 +1,123 @@
+body{
+    background-color:#333;
+    margin:0px;
+}
+#title{
+    height:10%;
+    width:42%;
+    background-color:mediumvioletred;
+    position:absolute;
+    left:29%;
+    top:0px;
+    display:flex;
+    align_items:center;
+    justify-content:center;
+    font-size:30px;
+    color:white;
+}
+#time{
+    height:10%;
+    width:29%;
+    background-color:palevioletred;
+    position:absolute;
+    right:0px;
+    top:0px;
+    display:flex;
+    align_items:center;
+    justify-content:center;
+    color:white;
+}
+
+#left1{
+    height:45%;
+    width:29%;
+    background-color:black;
+    position:absolute;
+    left:0%;
+    top:10%;
+    display:flex;
+    align_items:center;
+    justify-content:center;
+    color: white;
+}
+#left2{
+    height:45%;
+    width:29%;
+    background-color:black;
+    position:absolute;
+    left:0%;
+    top:55%;
+    display:flex;
+    align_items:center;
+    justify-content:center;
+    color:white;
+}
+#center1{
+    height:30%;
+    width:45%;
+    background-color:black;
+    position:absolute;
+    left:29%;
+    top:10%;
+    display:flex;
+    align_items:center;
+    justify-content:center;
+    color: white;
+}
+#center2{
+    height:60%;
+    width:45%;
+    background-color:black;
+    position:absolute;
+    left:29%;
+    top:40%;
+    display:flex;
+    align_items:center;
+    justify-content:center;
+    color: white;
+}
+#right1{
+    height:45%;
+    width:29%;
+    background-color:black;
+    position:absolute;
+    top:10%;
+    right:0px;
+    display:flex;
+    align_items:center;
+    justify-content:center;
+    color:white ;
+}
+#lefttop{
+    height:10%;
+    width:29%;
+    position:absolute;
+    left:0;
+    top:0;
+    background-color:palevioletred;
+}
+#right2{
+    height:45%;
+    width:29%;
+    background-color:black;
+    position:absolute;
+    right:0px;
+    top:55%;
+    display:flex;
+    align_items:center;
+    justify-content:center;
+    color:white;
+}
+.num{
+    float:left;
+    width:29%;
+    height:100%;
+    text-align:center;
+}
+.num h1{
+    color:gold;
+}
+.num h2{
+    color:white;
+    font-family: 新宋体;
+}
